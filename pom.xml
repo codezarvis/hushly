@@ -3,7 +3,7 @@
 
 	<groupId>org.codezarvis.artifactory</groupId>
 	<artifactId>hushly</artifactId>
-	<version>0.0.4</version>
+	<version>0.0.5-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>hushly</name>
@@ -13,7 +13,7 @@
 		<connection>scm:git:git@github.com:codezarvis/hushly.git</connection>
 		<url>scm:git:git@github.com:codezarvis/hushly.git</url>
 		<developerConnection>scm:git:git@github.com:codezarvis/hushly.git</developerConnection>
-		<tag>hushly-0.0.4</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<properties>
