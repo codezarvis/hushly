@@ -2,17 +2,15 @@ package org.codezarvis.artifactory.hushly;
 
 import junit.framework.TestCase;
 
-/**
- * Unit test for simple App.
- */
-public class AppTest extends TestCase {
+public class HushTest extends TestCase{
+
 	/**
 	 * Create the test case
 	 *
 	 * @param testName
 	 *            name of the test case
 	 */
-	public AppTest(String testName) {
+	public HushTest(String testName) {
 		super(testName);
 	}
 
@@ -21,8 +19,9 @@ public class AppTest extends TestCase {
 	/**
 	 * Rigourous Test :-)
 	 */
-	public void testApp() {
-		App app = new App();
-		assertEquals("App", app.getAppName());
+	
+	public void testHush() {
+		Hush hush = new Hush();
+		assertEquals("Hush", hush.getHush());
 	}
 }
