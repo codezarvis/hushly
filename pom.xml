@@ -9,6 +9,7 @@
 	<name>hushly</name>
 	<url>http://maven.apache.org</url>
 
+	<!-- Comment -->
 	<scm>
 		<connection>scm:git:git@github.com:codezarvis/hushly.git</connection>
 		<url>scm:git:git@github.com:codezarvis/hushly.git</url>
