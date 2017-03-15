@@ -9,4 +9,6 @@ public class Hush {
 	public String getAnotherHush() {
 		return "Another-Hush";
 	}
+	
+	private void test() {}
 }
